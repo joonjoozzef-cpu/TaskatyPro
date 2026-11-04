@@ -1,0 +1,4 @@
+streamlit
+hijri-converter
+pandas
+plotly
